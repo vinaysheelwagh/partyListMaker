@@ -7,7 +7,7 @@ Party list maker app to invite members within 100km radius
 This project is built using Python 3. To begin, clone the repo using:
 
 ```console
-$ git clone git@github.com:vinaysheelwagh/partyListMaker
+$ git clone git@github.com:vinaysheelwagh/partyListMaker.git
 ```
 
 Install dependencies using pip:
@@ -36,4 +36,4 @@ Tests are run using pytest. Make sure you're in same directory (src). Then run:
 $ python -m pytest
 ```
 
-### Please refer `partyListMaker.ipynb` for step-by-step execution
+Please refer `partyListMaker.ipynb` for step-by-step execution
